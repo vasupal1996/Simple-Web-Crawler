@@ -12,3 +12,4 @@ A simple web crawler made with python and django that crawler popular articles/p
 #### 7. goto 'http://127.0.0.1:8000/admin/' at browser
 #### 8. use username as 'vasu' and password as ''admin@123' to login
 
+To run the crawling script goto service and run crawlers.py file
